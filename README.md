@@ -15,7 +15,6 @@ This is just an easy way to get web.py up and running in a few seconds!
 ## Table of Contents
 
 - [Installation](#installation)
-- [Features](#features)
 - [License](#license)
 
 ## Installation
@@ -23,6 +22,14 @@ This is just an easy way to get web.py up and running in a few seconds!
 - Clone this repo to your local machine
 
 ```shell
+$ git clone https://github.com/nestor-alonso/hello-webpy-docker.git
+Cloning into 'hello-webpy-docker'...
+remote: Enumerating objects: 10, done.
+remote: Counting objects: 100% (10/10), done.
+remote: Compressing objects: 100% (8/8), done.
+remote: Total 10 (delta 2), reused 10 (delta 2), pack-reused 0
+Unpacking objects: 100% (10/10), done.
+
 ```
 
 - Build the Docker image:
